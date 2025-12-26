@@ -1,4 +1,4 @@
-### Hi there, I'm Hz162 👋
+### Hi there, I'm Hzzzz 👋
 
 I'm a developer passionate about **Python** and **Automation**. I love exploring new technologies and building tools to make life easier. I'm also interested in **Reverse Engineering** and **Data Analysis**.
 
