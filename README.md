@@ -5,14 +5,15 @@ I'm a developer passionate about **Python** and **Automation**. I love exploring
 ---
 
 <div align="center">
-  
-  <!-- 语言统计 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hz162&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-  
-  <br/>
-  
-  <!-- GitHub 数据统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hz162&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+  <!-- 并排显示：通过 height 属性控制高度一致，通过 &nbsp; 增加间距 -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hz162&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=merko&hide_border=true" alt="Top Langs" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Hz162&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+  </a>
 
 </div>
 
